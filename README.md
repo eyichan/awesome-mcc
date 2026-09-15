@@ -115,6 +115,7 @@ External applications/tools to aid in pack creation/development.
 - [Entity motion predictor](https://www.desmos.com/calculator/z7ouukcemh) - predict an entity's motion
 - [Image to particles converter](https://github.com/RedCocoon/PythonSiphon/blob/main/minecraft-tools/image_to_particles_converter.py) - convert an image into particles
 - [Mapcraft](https://mapcraft.app/) - software that increases the possibilities of mapmakers without any complex installation
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/) - browser tool for converting images into Minecraft block plans with material lists, layer guides and NBT exports
 - [Minecraft version compare](https://github.com/Plagiatus/mc-version-compare/releases) - a program that analyses the assets and data folders of the jars of two versions and shows you what changed between them
 - [NBT Studio](https://github.com/tryashtar/nbt-studio) - an up to date NBT viewer and editor with lots of new features
 
